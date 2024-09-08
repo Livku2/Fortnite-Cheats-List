@@ -1,6 +1,6 @@
 # Fortnite-Cheats-List
 
-A list of fortnite cheats that I've used and their detection level
+A list of **PUBLIC** fortnite cheats that I've used and their detection level
 
 ## Cheats
 
